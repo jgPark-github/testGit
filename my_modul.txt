@@ -1,5 +1,9 @@
-더하기 함수 만들기
+함수 만들기
 
 function add(a,b){
   return a+b;
+}
+
+function sub(a,b){
+  return a-b;
 }
