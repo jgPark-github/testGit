@@ -19,5 +19,3 @@ add commit 테스트4
 add commit 테스트5
 
 add commit 테스트6
-
-add commit 테스트7
