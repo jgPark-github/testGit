@@ -18,5 +18,7 @@ commit 될돌리기 4
 
 commit 될돌리기 5
 
+--21까지 add후 , commit
+commit 될돌리기 21
 
-commit 될돌리기 20
+
