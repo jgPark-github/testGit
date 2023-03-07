@@ -8,14 +8,4 @@ function sub(a,b){
   return a-b;
 }
 
-add commit 테스트1
-
-add commit 테스트2
-
-add commit 테스트3
-
-add commit 테스트4
-
-add commit 테스트5
-
-add commit 테스트6
+add commit 테스트7
