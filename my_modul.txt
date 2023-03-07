@@ -8,17 +8,4 @@ function sub(a,b){
   return a-b;
 }
 
-commit 되돌리기 1
-
-commit 되돌리기 2
-
-commit 되돌리기 3
-
-commit 될돌리기 4
-
-commit 될돌리기 5
-
---21까지 add후 , commit
-commit 될돌리기 21
-
-
+add commit 테스트1
