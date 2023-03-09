@@ -9,3 +9,5 @@ function sub(a,b){
 }
 
 revert test1
+
+revert test2
