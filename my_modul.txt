@@ -8,6 +8,4 @@ function sub(a,b){
   return a-b;
 }
 
-revert test1
-
-revert test2
+revert Test!!
