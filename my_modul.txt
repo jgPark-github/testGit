@@ -1,15 +1,1 @@
-함수 만들기
-
-function add(a,b){
-  return a+b;
-}
-
-function sub(a,b){
-  return a-b;
-}
-
-revert Test!!
-
-revert Test2
-
-revert Test3
+파일체크1
